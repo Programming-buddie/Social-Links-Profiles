@@ -26,6 +26,9 @@ Users should be able to:
 
 ![](./Screenshot%202026-08-21%20140142.png)
 
+### Links
+- Live URL- 
+
 ## My process
 
 ### Built with
@@ -41,8 +44,7 @@ The area i want to focus on is working well with time
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor -[https://www.frontendmentor.io/profile/Programming-buddie]
 - Twitter - (https://www.twitter.com/Radicalnerd0)
 
 
